@@ -1,3 +1,6 @@
+# github得星第二高，讲解较多
+对应的[博客](http://www.pkudodo.com/)
+
 前言
 ====
 
